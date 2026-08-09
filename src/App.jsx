@@ -1,10 +1,10 @@
-import UpdaterFunction from './components/UpdaterFunction'
+import UpdateObjectState from './components/UpdatesFunctions/UpdateObjectState'
 
 function App() {
 
   return (
     <>
-    <UpdaterFunction/>
+    <UpdateObjectState/>
     </>
   );
 }
