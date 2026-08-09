@@ -90,4 +90,7 @@ React will use the values defined in `defaultProps`.
 ## Render Lists
 ## Hooks
 - onClick => <button>
-- onChange => <input>, <textarea>, <select>, <radio>
+- onChange => <input> <textarea> <select> <radio>
+
+
+##  Updater Function  

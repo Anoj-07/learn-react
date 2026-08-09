@@ -1,10 +1,10 @@
-import OnChanceEventHandler from './components/hook/OnChanceEventHandler'
+import UpdaterFunction from './components/UpdaterFunction'
 
 function App() {
 
   return (
     <>
-    <OnChanceEventHandler/>
+    <UpdaterFunction/>
     </>
   );
 }
