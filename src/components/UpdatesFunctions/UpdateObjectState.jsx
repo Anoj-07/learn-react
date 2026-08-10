@@ -15,7 +15,7 @@ function UpdateObjectState() {
     };
 
     function handleModelChange(e) {
-        setCar(prevCar => ({ ...prevCar, model: String(e.target.value) }))
+        setCar(prevCar => ({...prevCar, model: String(e.target.value) }))
 
     };
 
