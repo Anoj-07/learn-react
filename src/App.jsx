@@ -1,4 +1,4 @@
-import TodoProject from './components/miniProjectComponents/MiniProjectUsingUseEffect'
+import TodoProject from './components/miniProjectComponents/DigitalClock'
 
 function App() {
 

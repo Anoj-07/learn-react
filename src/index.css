@@ -1,3 +1,33 @@
+body{
+    background-image: url(assets/pexels-eberhardgross-534164.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+}
+
+.clock-container {
+    backdrop-filter: blur(5px);
+    width: 100vw;
+}
+
+.clock {
+   color: white;
+   font-size: 7rem;
+   font-weight: bold;
+   font-family: monospace;
+   text-align: center;
+   text-shadow: 3px 3px 5px hsla(0, 0%, 0%, 0.75);
+}
+
+
+
 .card{
   border: 1px solid hsl(0, 0%, 80%);
   border-radius: 10px;
@@ -439,4 +469,4 @@ input[type='color']{
         flex-basis: 100%;
         margin-bottom: 5px;
     }
-}
+} 
