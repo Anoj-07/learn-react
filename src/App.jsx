@@ -1,10 +1,10 @@
-import UpdateObjectState from './components/UpdatesFunctions/UpdateObjectState'
+import TodoProject from './components/miniProjectComponents/MiniProjectUsingUseEffect'
 
 function App() {
 
   return (
     <>
-    <UpdateObjectState/>
+    <TodoProject/>
     </>
   );
 }

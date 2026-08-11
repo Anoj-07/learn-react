@@ -95,3 +95,7 @@ React will use the values defined in `defaultProps`.
 
 ##  Updater Function  
 ## Update Object States
+
+<!-- HOOKS -->
+## useState
+## useEffect
